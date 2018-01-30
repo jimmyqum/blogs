@@ -1,1 +1,4 @@
-/articles/temp
+/sources/webpackTest/node_modules
+*/.DS_Store
+.DS_Store
+/sources/webpackTest/.idea
